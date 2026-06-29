@@ -1042,3 +1042,4 @@ if __name__ == "__main__":
     else:
         # stdio：工具已在启动入口处统一回灌进 mcp（12 个全暴露），这里直接跑。
         mcp.run(transport=transport)
+# v2.3.22
